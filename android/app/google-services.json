@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74195938546",
+    "project_id": "lojavirtual-bc123",
+    "storage_bucket": "lojavirtual-bc123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74195938546:android:0dd22961528e001655f46b",
+        "android_client_info": {
+          "package_name": "br.com.novereistechnology.lojavirtual.loja_virtual__flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74195938546-jnr4v4t8bp03g29htmqlcjigbc56s7or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIv_Xax8M-MKEUt4frCLgc2kbAID9IVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74195938546-jnr4v4t8bp03g29htmqlcjigbc56s7or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
